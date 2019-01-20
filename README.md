@@ -1,2 +1,2 @@
-# -Wood-Chipping-Text-Animation
+# Wood-Chipping-Text-Animation
 Blender Wood Chipping Text Animation
